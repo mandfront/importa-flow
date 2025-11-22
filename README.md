@@ -9,13 +9,12 @@ ImportaFlow é uma ferramenta desenvolvida para importadores brasileiros que pre
 ## 📸 Screenshots
 
 ### Tela Inicial
-![Home](./docs/screenshots/home.png)
+<img width="1913" height="860" alt="Captura de Tela 2025-11-22 às 17 03 30" src="https://github.com/user-attachments/assets/0174ca79-da1f-4089-97fe-d9960711b368" />
+
 
 ### Calculadora de Pacotes
-![Calculadora](./docs/screenshots/calculator.png)
+<img width="1914" height="864" alt="Captura de Tela 2025-11-22 às 17 02 27" src="https://github.com/user-attachments/assets/7c4e2f5d-5420-4cf3-9177-bd477ca70bc7" />
 
-### Preview de Importação CSSBuy/ACBuy
-![Preview](./docs/screenshots/preview-modal.png)
 
 ---
 
