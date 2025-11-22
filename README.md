@@ -219,7 +219,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Desenvolvido por
 
-**ImportaFlow** - Facilitando a vida de importadores brasileiros 🇧🇷
+**ImportaFlow** - Criado por Amanda Caraça, com o objetivo de facilitar a vida de importadores brasileiros 🇧🇷
 
 ---
 
