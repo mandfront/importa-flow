@@ -1,0 +1,18 @@
+{
+  "heroBadgeLabel": "Ferramenta para importadores",
+  "heroBetaBadge": "Beta · Calculadora gratuita no MVP",
+  "heroTitle": "Entenda o lucro real dos seus pacotes da China para o Brasil",
+  "heroDescription": "Calcule em poucos cliques o custo total de cada pacote: produto, frete internacional, taxa do redirecionador, seguro, impostos e margem de lucro. Pensado para quem importa via CSSBuy, ACBuy e similares.",
+  "heroPrimaryCta": "Abrir calculadora agora",
+  "heroSecondaryText": "Sem login, sem cadastro. Use à vontade enquanto estamos em beta.",
+
+  "feature1Title": "Cálculo completo em reais",
+  "feature1Description": "Some automaticamente o valor em CNY, frete internacional, taxa de serviço, seguro e outros custos, convertendo para BRL com a cotação que você informar.",
+
+  "feature2Title": "Preço de venda e lucro estimado",
+  "feature2Description": "Defina a margem desejada e veja o custo unitário sugerido, preço de venda e lucro por peça com base no rateio por valor, peso ou quantidade.",
+
+  "feature3Title": "Pensado para a rotina real de importação",
+  "feature3Description": "Cole o resumo do pacote do CSSBuy/ACBuy, revise os itens em uma tela de pré-visualização e deixe a calculadora fazer o trabalho pesado. O foco é te ajudar a decidir rápido se um produto vale a pena ou não.",
+  "feature3Disclaimer": "As simulações são estimativas e não substituem orientação fiscal profissional."
+}
